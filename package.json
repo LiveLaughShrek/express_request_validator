@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/LiveLaughShrek/express_request_validator/issues"
   },
-  "homepage": "https://github.com/LiveLaughShrek/express_request_validator#readme"
+  "homepage": "https://github.com/LiveLaughShrek/express_request_validator#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  }
 }
